@@ -18,3 +18,7 @@ We move on to calculating the net revenue per product
 Calculating total revenues and bringing out specific rows using a condition is shown in the image below
 ![image](Dataframes4.png)
 
+Lastly, we calculate the new whole sale price and a new net revenue per product
+
+![image](Dataframes5.png)
+
